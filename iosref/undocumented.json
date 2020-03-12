@@ -1,0 +1,2063 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 10,
+      "symbol": "EcrTypes",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 10,
+      "symbol": "EcrTypes",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 11,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 11,
+      "symbol": "EcrTypes",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 11,
+      "symbol": "EcrTypes",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 12,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 13,
+      "symbol": "EcrTypes",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 29,
+      "symbol": "EcrModel",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 31,
+      "symbol": "EcrModel.Connection",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrCommon.swift",
+      "line": 32,
+      "symbol": "EcrModel.Connection.Publisher",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Base/EcrRequest.swift",
+      "line": 31,
+      "symbol": "EcrRequest.init(commandId:data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Echo.swift",
+      "line": 14,
+      "symbol": "EcrModel.Echo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Echo.swift",
+      "line": 18,
+      "symbol": "EcrModel.Echo.Request.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Echo.swift",
+      "line": 24,
+      "symbol": "EcrModel.Echo.RequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Echo.swift",
+      "line": 32,
+      "symbol": "EcrModel.Echo.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 15,
+      "symbol": "EcrTypes.CardType.visa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 16,
+      "symbol": "EcrTypes.CardType.mastercard",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 17,
+      "symbol": "EcrTypes.CardType.amex",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 18,
+      "symbol": "EcrTypes.CardType.discoverDiners",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 19,
+      "symbol": "EcrTypes.CardType.jcb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 20,
+      "symbol": "EcrTypes.CardType.chinaUnionPay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 21,
+      "symbol": "EcrTypes.CardType.myDebit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 22,
+      "symbol": "EcrTypes.CardType.alipay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 23,
+      "symbol": "EcrTypes.CardType.wechat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/CardType.swift",
+      "line": 25,
+      "symbol": "EcrTypes.CardType.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/Failure.swift",
+      "line": 12,
+      "symbol": "EcrTypes.Failure",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/Failure.swift",
+      "line": 13,
+      "symbol": "EcrTypes.Failure.generalError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/Failure.swift",
+      "line": 14,
+      "symbol": "EcrTypes.Failure.sendingFailed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/Failure.swift",
+      "line": 15,
+      "symbol": "EcrTypes.Failure.unwrapError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/Failure.swift",
+      "line": 16,
+      "symbol": "EcrTypes.Failure.wrapError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/Failure.swift",
+      "line": 17,
+      "symbol": "EcrTypes.Failure.unknownError(message:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 13,
+      "symbol": "EcrTypes.PaymentType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 14,
+      "symbol": "EcrTypes.PaymentType.notSpecificEdcToDecide",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 15,
+      "symbol": "EcrTypes.PaymentType.cash",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 16,
+      "symbol": "EcrTypes.PaymentType.cardCreditChargeCard",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 17,
+      "symbol": "EcrTypes.PaymentType.cardDebit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 18,
+      "symbol": "EcrTypes.PaymentType.cardPurse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 19,
+      "symbol": "EcrTypes.PaymentType.qrCode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 20,
+      "symbol": "EcrTypes.PaymentType.others",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 25,
+      "symbol": "EcrTypes.PaymentType",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/PaymentType.swift",
+      "line": 36,
+      "symbol": "EcrTypes.PaymentType",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 14,
+      "symbol": "EcrTypes.StatusCode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 15,
+      "symbol": "EcrTypes.StatusCode.successful",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 16,
+      "symbol": "EcrTypes.StatusCode.errorFromHostResponseMessage(statusCode:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 17,
+      "symbol": "EcrTypes.StatusCode.errorFromHostResponseMessageOther",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 18,
+      "symbol": "EcrTypes.StatusCode.transactionTimeOutAtHost",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 19,
+      "symbol": "EcrTypes.StatusCode.transactionTimeOutAtPaymentDevice",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 20,
+      "symbol": "EcrTypes.StatusCode.cardNotSupported",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 21,
+      "symbol": "EcrTypes.StatusCode.maximumAmountExceeded",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 22,
+      "symbol": "EcrTypes.StatusCode.noTransactionFoundInvalidInvoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 23,
+      "symbol": "EcrTypes.StatusCode.emvRelatedError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 24,
+      "symbol": "EcrTypes.StatusCode.transactionAlreadyVoided",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 25,
+      "symbol": "EcrTypes.StatusCode.paymentDeviceMemoryFull",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 26,
+      "symbol": "EcrTypes.StatusCode.transactionCancelled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 27,
+      "symbol": "EcrTypes.StatusCode.invalidCardEntryMode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 28,
+      "symbol": "EcrTypes.StatusCode.settlementMustBePerformedBeforeProceeding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 29,
+      "symbol": "EcrTypes.StatusCode.communicationError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 30,
+      "symbol": "EcrTypes.StatusCode.batchEmpty",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 31,
+      "symbol": "EcrTypes.StatusCode.settlementFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 32,
+      "symbol": "EcrTypes.StatusCode.transactionNotSupported",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 33,
+      "symbol": "EcrTypes.StatusCode.crcFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 34,
+      "symbol": "EcrTypes.StatusCode.invalidMessageFormat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 35,
+      "symbol": "EcrTypes.StatusCode.invalidCommandId",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 36,
+      "symbol": "EcrTypes.StatusCode.invalidSourceIddestinationId",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 37,
+      "symbol": "EcrTypes.StatusCode.missingTag",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 38,
+      "symbol": "EcrTypes.StatusCode.amountMismatch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 39,
+      "symbol": "EcrTypes.StatusCode.noAcknowledgementForLastTransactionResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 40,
+      "symbol": "EcrTypes.StatusCode.getLastTransactionFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 41,
+      "symbol": "EcrTypes.StatusCode.readCardError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 42,
+      "symbol": "EcrTypes.StatusCode.transactionFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 43,
+      "symbol": "EcrTypes.StatusCode.invalidDeviceId",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 45,
+      "symbol": "EcrTypes.StatusCode.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 50,
+      "symbol": "EcrTypes.StatusCode",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 119,
+      "symbol": "EcrTypes.StatusCode",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Enums/StatusCode.swift",
+      "line": 197,
+      "symbol": "EcrTypes.StatusCode",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 14,
+      "symbol": "EcrModel.GetLastSettlement",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 18,
+      "symbol": "EcrModel.GetLastSettlement.Request.version",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 20,
+      "symbol": "EcrModel.GetLastSettlement.Request.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 29,
+      "symbol": "EcrModel.GetLastSettlement.Request.encode(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 39,
+      "symbol": "EcrModel.GetLastSettlement.Response.version",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 45,
+      "symbol": "EcrModel.GetLastSettlement.Response.init(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 51,
+      "symbol": "EcrModel.GetLastSettlement.Response.encode(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 59,
+      "symbol": "EcrModel.GetLastSettlement.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 62,
+      "symbol": "EcrModel.GetLastSettlement.ResponseBody.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 63,
+      "symbol": "EcrModel.GetLastSettlement.ResponseBody.totalBatchList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 64,
+      "symbol": "EcrModel.GetLastSettlement.ResponseBody.batchList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 68,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 70,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.hostName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 71,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.statusCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 72,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.terminalId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 73,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.merchantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 74,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 75,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.batchNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 76,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.transactionDatetime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 77,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.totalSaleCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 78,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.totalSaleAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 79,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.totalRefundCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastSettlement.swift",
+      "line": 80,
+      "symbol": "EcrModel.GetLastSettlement.SettlementItem.totalRefundAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 14,
+      "symbol": "EcrModel.GetLastTransaction",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 18,
+      "symbol": "EcrModel.GetLastTransaction.Request.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 28,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 30,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 31,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.lastCmdId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 32,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 33,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 34,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.maskedCardPan",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 35,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.cardType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 36,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.terminalId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 37,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.merchantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 38,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 39,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.batchNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 40,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.transactionDatetime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 41,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.cardholderName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 42,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.approvalCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 43,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.rrn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 44,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.entryMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 45,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.cvm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 46,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.aid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 47,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.appName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/GetLastTransaction.swift",
+      "line": 48,
+      "symbol": "EcrModel.GetLastTransaction.ResponseBody.tc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 14,
+      "symbol": "EcrModel.Installment",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 18,
+      "symbol": "EcrModel.Installment.Request.init(requestBody:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 24,
+      "symbol": "EcrModel.Installment.RequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 26,
+      "symbol": "EcrModel.Installment.RequestBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 27,
+      "symbol": "EcrModel.Installment.RequestBody.paymentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 28,
+      "symbol": "EcrModel.Installment.RequestBody.tenure",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 29,
+      "symbol": "EcrModel.Installment.RequestBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 31,
+      "symbol": "EcrModel.Installment.RequestBody.init(transactionAmount:paymentType:tenure:orderId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 46,
+      "symbol": "EcrModel.Installment.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 48,
+      "symbol": "EcrModel.Installment.ResponseBody.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 49,
+      "symbol": "EcrModel.Installment.ResponseBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 50,
+      "symbol": "EcrModel.Installment.ResponseBody.monthlyIppPayment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 51,
+      "symbol": "EcrModel.Installment.ResponseBody.lastIppPayment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 52,
+      "symbol": "EcrModel.Installment.ResponseBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 53,
+      "symbol": "EcrModel.Installment.ResponseBody.maskedCardPan",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 54,
+      "symbol": "EcrModel.Installment.ResponseBody.cardType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 55,
+      "symbol": "EcrModel.Installment.ResponseBody.terminalId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 56,
+      "symbol": "EcrModel.Installment.ResponseBody.merchantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 57,
+      "symbol": "EcrModel.Installment.ResponseBody.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 58,
+      "symbol": "EcrModel.Installment.ResponseBody.batchNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 59,
+      "symbol": "EcrModel.Installment.ResponseBody.transactionDatetime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 60,
+      "symbol": "EcrModel.Installment.ResponseBody.cardholderName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 61,
+      "symbol": "EcrModel.Installment.ResponseBody.approvalCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 62,
+      "symbol": "EcrModel.Installment.ResponseBody.rrn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 63,
+      "symbol": "EcrModel.Installment.ResponseBody.entryMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 64,
+      "symbol": "EcrModel.Installment.ResponseBody.aid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 65,
+      "symbol": "EcrModel.Installment.ResponseBody.appName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Installment.swift",
+      "line": 66,
+      "symbol": "EcrModel.Installment.ResponseBody.tc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 14,
+      "symbol": "EcrModel.PreAuth",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 18,
+      "symbol": "EcrModel.PreAuth.Request.init(requestBody:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 24,
+      "symbol": "EcrModel.PreAuth.RequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 26,
+      "symbol": "EcrModel.PreAuth.RequestBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 27,
+      "symbol": "EcrModel.PreAuth.RequestBody.paymentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 28,
+      "symbol": "EcrModel.PreAuth.RequestBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 30,
+      "symbol": "EcrModel.PreAuth.RequestBody.init(transactionAmount:paymentType:orderId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 42,
+      "symbol": "EcrModel.PreAuth.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 44,
+      "symbol": "EcrModel.PreAuth.ResponseBody.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 45,
+      "symbol": "EcrModel.PreAuth.ResponseBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 46,
+      "symbol": "EcrModel.PreAuth.ResponseBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 47,
+      "symbol": "EcrModel.PreAuth.ResponseBody.maskedCardPan",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 48,
+      "symbol": "EcrModel.PreAuth.ResponseBody.cardType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 49,
+      "symbol": "EcrModel.PreAuth.ResponseBody.terminalId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 50,
+      "symbol": "EcrModel.PreAuth.ResponseBody.merchantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 51,
+      "symbol": "EcrModel.PreAuth.ResponseBody.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 52,
+      "symbol": "EcrModel.PreAuth.ResponseBody.batchNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 53,
+      "symbol": "EcrModel.PreAuth.ResponseBody.transactionDatetime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 54,
+      "symbol": "EcrModel.PreAuth.ResponseBody.cardholderName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 55,
+      "symbol": "EcrModel.PreAuth.ResponseBody.approvalCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 56,
+      "symbol": "EcrModel.PreAuth.ResponseBody.rrn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 57,
+      "symbol": "EcrModel.PreAuth.ResponseBody.entryMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 58,
+      "symbol": "EcrModel.PreAuth.ResponseBody.cvm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 59,
+      "symbol": "EcrModel.PreAuth.ResponseBody.aid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 60,
+      "symbol": "EcrModel.PreAuth.ResponseBody.appName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/PreAuth.swift",
+      "line": 61,
+      "symbol": "EcrModel.PreAuth.ResponseBody.tc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 13,
+      "symbol": "EcrModel.Refund",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 17,
+      "symbol": "EcrModel.Refund.Request.init(requestBody:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 23,
+      "symbol": "EcrModel.Refund.RequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 25,
+      "symbol": "EcrModel.Refund.RequestBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 26,
+      "symbol": "EcrModel.Refund.RequestBody.paymentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 27,
+      "symbol": "EcrModel.Refund.RequestBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 29,
+      "symbol": "EcrModel.Refund.RequestBody.init(transactionAmount:paymentType:orderId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 41,
+      "symbol": "EcrModel.Refund.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 43,
+      "symbol": "EcrModel.Refund.ResponseBody.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 44,
+      "symbol": "EcrModel.Refund.ResponseBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 45,
+      "symbol": "EcrModel.Refund.ResponseBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 46,
+      "symbol": "EcrModel.Refund.ResponseBody.maskedCardPan",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 47,
+      "symbol": "EcrModel.Refund.ResponseBody.cardType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 48,
+      "symbol": "EcrModel.Refund.ResponseBody.terminalId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 49,
+      "symbol": "EcrModel.Refund.ResponseBody.merchantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 50,
+      "symbol": "EcrModel.Refund.ResponseBody.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 51,
+      "symbol": "EcrModel.Refund.ResponseBody.batchNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 52,
+      "symbol": "EcrModel.Refund.ResponseBody.transactionDatetime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 53,
+      "symbol": "EcrModel.Refund.ResponseBody.cardholderName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 54,
+      "symbol": "EcrModel.Refund.ResponseBody.approvalCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 55,
+      "symbol": "EcrModel.Refund.ResponseBody.rrn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Refund.swift",
+      "line": 56,
+      "symbol": "EcrModel.Refund.ResponseBody.entryMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Sale.swift",
+      "line": 20,
+      "symbol": "EcrModel.Sale.Request.init(requestBody:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Sale.swift",
+      "line": 29,
+      "symbol": "EcrModel.Sale.RequestBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Sale.swift",
+      "line": 30,
+      "symbol": "EcrModel.Sale.RequestBody.paymentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Sale.swift",
+      "line": 31,
+      "symbol": "EcrModel.Sale.RequestBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Sale.swift",
+      "line": 33,
+      "symbol": "EcrModel.Sale.RequestBody.init(transactionAmount:paymentType:orderId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 14,
+      "symbol": "EcrModel.SaleCompletion",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 18,
+      "symbol": "EcrModel.SaleCompletion.Request.init(requestBody:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 24,
+      "symbol": "EcrModel.SaleCompletion.RequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 26,
+      "symbol": "EcrModel.SaleCompletion.RequestBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 27,
+      "symbol": "EcrModel.SaleCompletion.RequestBody.paymentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 28,
+      "symbol": "EcrModel.SaleCompletion.RequestBody.rrn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 29,
+      "symbol": "EcrModel.SaleCompletion.RequestBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/SaleCompletion.swift",
+      "line": 31,
+      "symbol": "EcrModel.SaleCompletion.RequestBody.init(transactionAmount:paymentType:rrn:orderId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 14,
+      "symbol": "EcrModel.Settlement",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 18,
+      "symbol": "EcrModel.Settlement.Request.version",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 20,
+      "symbol": "EcrModel.Settlement.Request.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 29,
+      "symbol": "EcrModel.Settlement.Request.encode(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 39,
+      "symbol": "EcrModel.Settlement.Response.version",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 45,
+      "symbol": "EcrModel.Settlement.Response.init(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 51,
+      "symbol": "EcrModel.Settlement.Response.encode(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 59,
+      "symbol": "EcrModel.Settlement.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 61,
+      "symbol": "EcrModel.Settlement.ResponseBody.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 62,
+      "symbol": "EcrModel.Settlement.ResponseBody.totalBatchList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 63,
+      "symbol": "EcrModel.Settlement.ResponseBody.batchList",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 69,
+      "symbol": "EcrModel.SettlementItem",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 71,
+      "symbol": "EcrModel.SettlementItem.hostName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 72,
+      "symbol": "EcrModel.SettlementItem.statusCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 73,
+      "symbol": "EcrModel.SettlementItem.terminalId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 74,
+      "symbol": "EcrModel.SettlementItem.merchantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 75,
+      "symbol": "EcrModel.SettlementItem.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 76,
+      "symbol": "EcrModel.SettlementItem.batchNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 77,
+      "symbol": "EcrModel.SettlementItem.transactionDatetime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 78,
+      "symbol": "EcrModel.SettlementItem.totalSaleCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 79,
+      "symbol": "EcrModel.SettlementItem.totalSaleAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 80,
+      "symbol": "EcrModel.SettlementItem.totalRefundCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Settlement.swift",
+      "line": 81,
+      "symbol": "EcrModel.SettlementItem.totalRefundAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 14,
+      "symbol": "EcrModel.Tokenization",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 18,
+      "symbol": "EcrModel.Tokenization.Request.init(requestBody:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 24,
+      "symbol": "EcrModel.Tokenization.RequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 26,
+      "symbol": "EcrModel.Tokenization.RequestBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 28,
+      "symbol": "EcrModel.Tokenization.RequestBody.init(orderId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 38,
+      "symbol": "EcrModel.Tokenization.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 40,
+      "symbol": "EcrModel.Tokenization.ResponseBody.tokenId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Tokenization.swift",
+      "line": 41,
+      "symbol": "EcrModel.Tokenization.ResponseBody.maskedCardPan",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 14,
+      "symbol": "EcrModel.Void",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 18,
+      "symbol": "EcrModel.Void.Request.init(requestBody:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 24,
+      "symbol": "EcrModel.Void.RequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 26,
+      "symbol": "EcrModel.Void.RequestBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 27,
+      "symbol": "EcrModel.Void.RequestBody.paymentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 28,
+      "symbol": "EcrModel.Void.RequestBody.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 29,
+      "symbol": "EcrModel.Void.RequestBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 31,
+      "symbol": "EcrModel.Void.RequestBody.init(transactionAmount:paymentType:invoiceNumber:orderId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 44,
+      "symbol": "EcrModel.Void.ResponseBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 46,
+      "symbol": "EcrModel.Void.ResponseBody.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 47,
+      "symbol": "EcrModel.Void.ResponseBody.transactionAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 48,
+      "symbol": "EcrModel.Void.ResponseBody.orderId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 49,
+      "symbol": "EcrModel.Void.ResponseBody.maskedCardPan",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 50,
+      "symbol": "EcrModel.Void.ResponseBody.cardType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 51,
+      "symbol": "EcrModel.Void.ResponseBody.terminalId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 52,
+      "symbol": "EcrModel.Void.ResponseBody.merchantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 53,
+      "symbol": "EcrModel.Void.ResponseBody.invoiceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 54,
+      "symbol": "EcrModel.Void.ResponseBody.batchNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 55,
+      "symbol": "EcrModel.Void.ResponseBody.transactionDatetime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 56,
+      "symbol": "EcrModel.Void.ResponseBody.cardholderName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 57,
+      "symbol": "EcrModel.Void.ResponseBody.approvalCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 58,
+      "symbol": "EcrModel.Void.ResponseBody.rrn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 59,
+      "symbol": "EcrModel.Void.ResponseBody.entryMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 60,
+      "symbol": "EcrModel.Void.ResponseBody.cvm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 61,
+      "symbol": "EcrModel.Void.ResponseBody.aid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 62,
+      "symbol": "EcrModel.Void.ResponseBody.appName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Models/Void.swift",
+      "line": 63,
+      "symbol": "EcrModel.Void.ResponseBody.tc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 11,
+      "symbol": "Device",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 12,
+      "symbol": "Device.S",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 13,
+      "symbol": "Device.createSession()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 16,
+      "symbol": "TcpIpDevice",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 18,
+      "symbol": "TcpIpDevice.S",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 20,
+      "symbol": "TcpIpDevice.ip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 21,
+      "symbol": "TcpIpDevice.port",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 23,
+      "symbol": "TcpIpDevice.init(ip:port:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Device.swift",
+      "line": 28,
+      "symbol": "TcpIpDevice.createSession()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Session.swift",
+      "line": 13,
+      "symbol": "Session",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Session.swift",
+      "line": 15,
+      "symbol": "Session.D",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Session.swift",
+      "line": 17,
+      "symbol": "Session.init(device:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/Session.swift",
+      "line": 18,
+      "symbol": "Session.send(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/TcpIpSession.swift",
+      "line": 14,
+      "symbol": "TcpIpSession",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/TcpIpSession.swift",
+      "line": 16,
+      "symbol": "TcpIpSession.D",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/TcpIpSession.swift",
+      "line": 20,
+      "symbol": "TcpIpSession.init(device:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Session/TcpIpSession.swift",
+      "line": 24,
+      "symbol": "TcpIpSession.send(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr/Sources/WDEcr/Wrappers/JsonWrapper.swift",
+      "line": 13,
+      "symbol": "JsonWrapper",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/jaroslav.pulik/Documents/workspace/ECR_iOS/WDEcr"
+}

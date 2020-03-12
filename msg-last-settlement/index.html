@@ -1,0 +1,523 @@
+
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon_black.ico">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.0.1">
+    
+    
+      
+        <title>Last Settlement - Wirecard ECR SDK</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.982221ab.css">
+      
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.1f0bcf2b.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../assets/fonts/material-icons.css">
+    
+    
+      <link rel="stylesheet" href="../stylesheets/minimal-epossdk.css">
+    
+    
+      
+    
+    
+  </head>
+  
+    <body dir="ltr">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#sale" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href=".." title="Wirecard ECR SDK" class="md-header-nav__button md-logo">
+          
+            <img src="../assets/favicon.png" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              Wirecard ECR SDK
+            </span>
+            <span class="md-header-nav__topic">
+              Last Settlement
+            </span>
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href=".." title="Wirecard ECR SDK" class="md-nav__button md-logo">
+      
+        <img src="../assets/favicon.png" width="48" height="48">
+      
+    </a>
+    Wirecard ECR SDK
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Welcome" class="md-nav__link">
+      Welcome
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../ecr-overview/" title="Overview" class="md-nav__link">
+      Overview
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../transaction-flow/" title="Transaction Flow" class="md-nav__link">
+      Transaction Flow
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Setup
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Setup
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../int-setup-android-gradle/" title="Android" class="md-nav__link">
+      Android
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../int-setup-ios/" title="iOS" class="md-nav__link">
+      iOS
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" checked>
+    
+    <label class="md-nav__link" for="nav-5">
+      Transactions
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Transactions
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../msg-echo/" title="Echo" class="md-nav__link">
+      Echo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../msg-sale/" title="Sale" class="md-nav__link">
+      Sale
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../msg-refund/" title="Refund" class="md-nav__link">
+      Refund
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../msg-pre-auth/" title="PreAuthorization" class="md-nav__link">
+      PreAuthorization
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../msg-void/" title="Void" class="md-nav__link">
+      Void
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../msg-settlement/" title="Settlement" class="md-nav__link">
+      Settlement
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../msg-last-transaction/" title="Last Transaction" class="md-nav__link">
+      Last Transaction
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Last Settlement" class="md-nav__link md-nav__link--active">
+      Last Settlement
+    </a>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="sale">Sale</h1>
+<div class="superfences-tabs">
+<input name="__tabs_1" type="radio" id="__tab_1_0" checked="checked" />
+<label for="__tab_1_0">Kotlin</label>
+<div class="superfences-content"><div class="codehilite"><pre><span></span><span class="kn">import</span> <span class="nn">de.wirecard.ecr.EcrSdk</span>
+
+<span class="n">var</span> <span class="n">ecr</span><span class="o">:</span> <span class="n">EcrSdk</span>
+<span class="n">var</span> <span class="n">ecrIp</span><span class="o">:</span> <span class="n">String</span> <span class="o">=</span> <span class="s">&quot;127.0.0.1&quot;</span> <span class="c1">// IP address of ecr device</span>
+<span class="n">var</span> <span class="n">ecrPort</span><span class="o">:</span> <span class="n">Int</span> <span class="o">=</span> <span class="mi">7890</span>         <span class="c1">// device port</span>
+
+<span class="n">ecr</span> <span class="o">=</span> <span class="n">EcrSdkFactory</span><span class="o">.</span><span class="na">createTcpIp</span><span class="o">(</span><span class="n">ecrIp</span><span class="o">,</span> <span class="n">ecrPort</span><span class="o">)</span>
+
+<span class="hll"><span class="n">ecr</span><span class="o">.</span><span class="na">getLastSettlement</span><span class="o">()</span>
+</span>    <span class="o">.</span><span class="na">subscribeOn</span><span class="o">(</span><span class="n">Schedulers</span><span class="o">.</span><span class="na">io</span><span class="o">())</span>
+    <span class="o">.</span><span class="na">observeOn</span><span class="o">(</span><span class="n">AndroidSchedulers</span><span class="o">.</span><span class="na">mainThread</span><span class="o">())</span>
+    <span class="o">.</span><span class="na">subscribe</span> <span class="o">{</span> <span class="n">response</span><span class="o">,</span> <span class="n">throwable</span> <span class="o">-&gt;</span> <span class="o">...</span> <span class="o">}</span>
+</pre></div></div>
+<input name="__tabs_1" type="radio" id="__tab_1_1" />
+<label for="__tab_1_1">Swift</label>
+<div class="superfences-content"><div class="codehilite"><pre><span></span><span class="kd">import</span> <span class="nc">Ecr</span>
+
+<span class="kd">let</span> <span class="nv">device</span> <span class="p">=</span> <span class="n">TcpIpDevice</span><span class="p">(</span><span class="n">ip</span><span class="p">:</span> <span class="s">&quot;172.20.10.105&quot;</span><span class="p">,</span> <span class="n">port</span><span class="p">:</span> <span class="mi">7890</span><span class="p">)</span>
+<span class="kd">let</span> <span class="nv">ecr</span> <span class="p">=</span> <span class="n">Ecr</span><span class="p">&lt;</span><span class="n">TcpIpDevice</span><span class="p">,</span> <span class="n">JsonWrapper</span><span class="p">&gt;(</span><span class="n">device</span><span class="p">:</span> <span class="n">device</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nv">cancellables</span> <span class="p">=</span> <span class="n">Set</span><span class="p">&lt;</span><span class="n">AnyCancellable</span><span class="p">&gt;()</span>
+
+<span class="n">ecr</span><span class="p">.</span><span class="n">getLastSettlement</span><span class="p">()</span>
+    <span class="p">.</span><span class="n">sink</span><span class="p">(</span><span class="n">receiveCompletion</span><span class="p">:</span> <span class="p">{</span> <span class="n">completion</span> <span class="k">in</span>
+        <span class="k">switch</span> <span class="n">completion</span> <span class="p">{</span>
+        <span class="k">case</span><span class="p">.</span><span class="n">finished</span><span class="p">:</span>
+            <span class="k">break</span><span class="p">;</span>
+        <span class="k">case</span> <span class="p">.</span><span class="n">failure</span><span class="p">(</span><span class="kd">let</span> <span class="nv">error</span><span class="p">):</span>
+            <span class="bp">print</span><span class="p">(</span><span class="s">&quot;error:</span><span class="si">\(</span><span class="n">error</span><span class="si">)</span><span class="s">&quot;</span><span class="p">)</span>
+        <span class="p">}</span>
+    <span class="p">},</span> <span class="n">receiveValue</span><span class="p">:</span> <span class="p">{</span> <span class="n">data</span> <span class="k">in</span>
+        <span class="bp">print</span><span class="p">(</span><span class="s">&quot;data:</span><span class="si">\(</span><span class="n">data</span><span class="si">)</span><span class="s">&quot;</span><span class="p">)</span>
+    <span class="p">})</span>
+    <span class="p">.</span><span class="n">store</span><span class="p">(</span><span class="k">in</span><span class="p">:</span> <span class="p">&amp;</span><span class="n">cancellables</span><span class="p">)</span>
+</pre></div></div>
+</div>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../msg-last-transaction/" title="Last Transaction" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Last Transaction
+              </span>
+            </div>
+          </a>
+        
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/WirecardMobileServices/Wirecard-ECR-iOS/issues" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://github.com/WirecardMobileServices/Wirecard-ECR-iOS" class="md-footer-social__link fa fa-apple"></a>
+    
+      <a href="https://github.com/WirecardMobileServices/Wirecard-ePOS-Android" class="md-footer-social__link fa fa-android"></a>
+    
+  </div>
+
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.b806dc00.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
+      
+        <script src="../javascript/external-links.js"></script>
+      
+    
+  </body>
+</html>

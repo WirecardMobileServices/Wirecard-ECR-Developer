@@ -235,9 +235,45 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Android
+      </label>
+    
     <a href="./" title="Android" class="md-nav__link md-nav__link--active">
       Android
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#release-notes" title="Release notes" class="md-nav__link">
+    Release notes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gradle-dependencies" title="Gradle dependencies" class="md-nav__link">
+    Gradle dependencies
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -264,15 +300,27 @@
       
 
 
+  <li class="md-nav__item">
+    <a href="../int-initialization/" title="Initialization" class="md-nav__link">
+      Initialization
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
     
-    <label class="md-nav__link" for="nav-5">
+    <label class="md-nav__link" for="nav-6">
       Transactions
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-5">
+      <label class="md-nav__title" for="nav-6">
         Transactions
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -396,6 +444,29 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#release-notes" title="Release notes" class="md-nav__link">
+    Release notes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gradle-dependencies" title="Gradle dependencies" class="md-nav__link">
+    Gradle dependencies
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -408,9 +479,36 @@
                 
                 
                 <h1 id="set-up-with-gradle">Set up with Gradle</h1>
+<p>Hassle-free setup on Android is now available using Gradle dependencies. The Gradle build system in Android Studio makes it easy to include external binaries or other library modules to your build as dependencies. So all you have to do is add some lines to your gradle file and the appropriate Android SDK files are included in your build. </p>
 <div class="admonition caution">
 <p class="admonition-title">Caution</p>
 <p>The minimum API level supported by this library is API 15 (4.0.3). </p>
+</div>
+<h2 id="release-notes">Release notes</h2>
+<p>Release notes are available here: <a href="https://bintray.com/wirecardmobileservices/Wirecard-ECR/EcrSDK#release">EcrSDK Release notes</a></p>
+<h2 id="gradle-dependencies">Gradle dependencies</h2>
+<p>Add the following lines to your root <code class="codehilite">build.gradle</code> file to include the SDK in your Android Studio project:</p>
+<div class="codehilite"><pre><span></span><span class="c1">//build.gradle (Project: ...)</span>
+<span class="n">allprojects</span> <span class="o">{</span>
+    <span class="n">repositories</span> <span class="o">{</span>
+        <span class="n">maven</span> <span class="o">{</span> <span class="n">url</span> <span class="s">&quot;https://jitpack.io&quot;</span> <span class="o">}</span>
+        <span class="n">maven</span> <span class="o">{</span> <span class="n">url</span>  <span class="s">&quot;https://dl.bintray.com/wirecardmobileservices/Wirecard-ECR&quot;</span> <span class="o">}</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+
+
+<span class="c1">//build.gradle (Module: ...)</span>
+<span class="n">dependencies</span> <span class="o">{</span>
+    <span class="n">def</span> <span class="n">ecrVersion</span> <span class="o">=</span> <span class="s">&quot;1.0.0&quot;</span>
+
+    <span class="n">implementation</span> <span class="s">&quot;de.wirecard.epos:EcrSDK:$ecrVersion&quot;</span>
+
+<span class="o">}</span>
+</pre></div>
+
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>After set up of SDK, you can continue with <a href="../int-initialization/">SDK Initialization</a> section.</p>
 </div>
                 
                   

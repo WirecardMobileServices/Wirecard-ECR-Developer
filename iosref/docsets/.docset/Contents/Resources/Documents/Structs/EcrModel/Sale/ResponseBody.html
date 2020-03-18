@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ResponseBody Structure Reference</title>
+    <link rel="stylesheet" type="text/css" href="../../../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../../../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../../../js/jquery.min.js" defer></script>
+    <script src="../../../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Struct/ResponseBody" class="dashAnchor"></a>
+    <a title="ResponseBody Structure Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../../../index.html"> Docs</a> (0% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../../../index.html"> Reference</a>
+        <img id="carat" src="../../../img/carat.png" />
+        ResponseBody Structure Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../../../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../../Classes/Ecr.html">Ecr</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Classes/EcrRequest.html">EcrRequest</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Classes/EcrResponse.html">EcrResponse</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Classes/TcpIpDevice.html">TcpIpDevice</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Classes/TcpIpSession.html">TcpIpSession</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../../Protocols/Device.html">Device</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Protocols/EcrApi.html">EcrApi</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Protocols/EcrModelable.html">EcrModelable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Protocols/EcrRequestable.html">EcrRequestable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Protocols/EcrResponsable.html">EcrResponsable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Protocols/EnumDefinable.html">EnumDefinable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Protocols/ModelWrapper.html">ModelWrapper</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Protocols/Session.html">Session</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel.html">EcrModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Connection.html">– Connection</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Echo.html">– Echo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/GetLastSettlement.html">– GetLastSettlement</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/GetLastTransaction.html">– GetLastTransaction</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Installment.html">– Installment</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/PreAuth.html">– PreAuth</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Refund.html">– Refund</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Sale.html">– Sale</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/SaleCompletion.html">– SaleCompletion</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Settlement.html">– Settlement</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/SettlementItem.html">– SettlementItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Tokenization.html">– Tokenization</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrModel/Void.html">– Void</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrTypes.html">EcrTypes</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrTypes/CardType.html">– CardType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrTypes/Failure.html">– Failure</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrTypes/PaymentType.html">– PaymentType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/EcrTypes/StatusCode.html">– StatusCode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs.html#/EmptyRequest">EmptyRequest</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs.html#/EmptyResponse">EmptyResponse</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../../Structs/JsonWrapper.html">JsonWrapper</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>ResponseBody</h1>
+            <p>Sale Response body</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/status" class="dashAnchor"></a>
+                    <a class="token" href="#/">status</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale status</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/transactionAmount" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionAmount</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale transaction amount</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/orderId" class="dashAnchor"></a>
+                    <a class="token" href="#/">orderId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale order ID</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/tenure" class="dashAnchor"></a>
+                    <a class="token" href="#/">tenure</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale tenure</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/maskedCardPan" class="dashAnchor"></a>
+                    <a class="token" href="#/">maskedCardPan</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale masked card number</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/cardType" class="dashAnchor"></a>
+                    <a class="token" href="#/">cardType</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale card type</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/terminalId" class="dashAnchor"></a>
+                    <a class="token" href="#/">terminalId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale terminal ID</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/merchantId" class="dashAnchor"></a>
+                    <a class="token" href="#/">merchantId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale merchant ID</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/invoiceNumber" class="dashAnchor"></a>
+                    <a class="token" href="#/">invoiceNumber</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale invoice number</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/batchNumber" class="dashAnchor"></a>
+                    <a class="token" href="#/">batchNumber</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale batch number</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/transactionDatetime" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionDatetime</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale transction date</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/cardholderName" class="dashAnchor"></a>
+                    <a class="token" href="#/">cardholderName</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale cardholder name</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/approvalCode" class="dashAnchor"></a>
+                    <a class="token" href="#/">approvalCode</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale approval code</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/rrn" class="dashAnchor"></a>
+                    <a class="token" href="#/">rrn</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale Retrieval Reference Number</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/entryMode" class="dashAnchor"></a>
+                    <a class="token" href="#/">entryMode</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/cvm" class="dashAnchor"></a>
+                    <a class="token" href="#/">cvm</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale CVM</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/aid" class="dashAnchor"></a>
+                    <a class="token" href="#/">aid</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale AID</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/appName" class="dashAnchor"></a>
+                    <a class="token" href="#/">appName</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale app name</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/tc" class="dashAnchor"></a>
+                    <a class="token" href="#/">tc</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Sale TC</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2020 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2020-03-18)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.1</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

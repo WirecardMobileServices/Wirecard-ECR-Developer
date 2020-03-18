@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>StatusCode Enumeration Reference</title>
+    <link rel="stylesheet" type="text/css" href="../../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../../js/jquery.min.js" defer></script>
+    <script src="../../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Enum/StatusCode" class="dashAnchor"></a>
+    <a title="StatusCode Enumeration Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../../index.html"> Docs</a> (0% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../../index.html"> Reference</a>
+        <img id="carat" src="../../img/carat.png" />
+        StatusCode Enumeration Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Classes/Ecr.html">Ecr</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/EcrRequest.html">EcrRequest</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/EcrResponse.html">EcrResponse</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/TcpIpDevice.html">TcpIpDevice</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/TcpIpSession.html">TcpIpSession</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Protocols/Device.html">Device</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/EcrApi.html">EcrApi</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/EcrModelable.html">EcrModelable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/EcrRequestable.html">EcrRequestable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/EcrResponsable.html">EcrResponsable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/EnumDefinable.html">EnumDefinable</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/ModelWrapper.html">ModelWrapper</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/Session.html">Session</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel.html">EcrModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Connection.html">– Connection</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Echo.html">– Echo</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/GetLastSettlement.html">– GetLastSettlement</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/GetLastTransaction.html">– GetLastTransaction</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Installment.html">– Installment</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/PreAuth.html">– PreAuth</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Refund.html">– Refund</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Sale.html">– Sale</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/SaleCompletion.html">– SaleCompletion</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Settlement.html">– Settlement</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/SettlementItem.html">– SettlementItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Tokenization.html">– Tokenization</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrModel/Void.html">– Void</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrTypes.html">EcrTypes</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrTypes/CardType.html">– CardType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrTypes/Failure.html">– Failure</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrTypes/PaymentType.html">– PaymentType</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/EcrTypes/StatusCode.html">– StatusCode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs.html#/EmptyRequest">EmptyRequest</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs.html#/EmptyResponse">EmptyResponse</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/JsonWrapper.html">JsonWrapper</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>StatusCode</h1>
+              <div class="declaration">
+                <div class="language">
+                  
+                </div>
+              </div>
+            
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/successful" class="dashAnchor"></a>
+                    <a class="token" href="#/">successful</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/errorFromHostResponseMessage(statusCode:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">errorFromHostResponseMessage(statusCode:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/errorFromHostResponseMessageOther" class="dashAnchor"></a>
+                    <a class="token" href="#/">errorFromHostResponseMessageOther</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/transactionTimeOutAtHost" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionTimeOutAtHost</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/transactionTimeOutAtPaymentDevice" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionTimeOutAtPaymentDevice</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/cardNotSupported" class="dashAnchor"></a>
+                    <a class="token" href="#/">cardNotSupported</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/maximumAmountExceeded" class="dashAnchor"></a>
+                    <a class="token" href="#/">maximumAmountExceeded</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/noTransactionFoundInvalidInvoiceNumber" class="dashAnchor"></a>
+                    <a class="token" href="#/">noTransactionFoundInvalidInvoiceNumber</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/emvRelatedError" class="dashAnchor"></a>
+                    <a class="token" href="#/">emvRelatedError</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/transactionAlreadyVoided" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionAlreadyVoided</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/paymentDeviceMemoryFull" class="dashAnchor"></a>
+                    <a class="token" href="#/">paymentDeviceMemoryFull</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/transactionCancelled" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionCancelled</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/invalidCardEntryMode" class="dashAnchor"></a>
+                    <a class="token" href="#/">invalidCardEntryMode</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/settlementMustBePerformedBeforeProceeding" class="dashAnchor"></a>
+                    <a class="token" href="#/">settlementMustBePerformedBeforeProceeding</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/communicationError" class="dashAnchor"></a>
+                    <a class="token" href="#/">communicationError</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/batchEmpty" class="dashAnchor"></a>
+                    <a class="token" href="#/">batchEmpty</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/settlementFailed" class="dashAnchor"></a>
+                    <a class="token" href="#/">settlementFailed</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/transactionNotSupported" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionNotSupported</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/crcFailed" class="dashAnchor"></a>
+                    <a class="token" href="#/">crcFailed</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/invalidMessageFormat" class="dashAnchor"></a>
+                    <a class="token" href="#/">invalidMessageFormat</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/invalidCommandId" class="dashAnchor"></a>
+                    <a class="token" href="#/">invalidCommandId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/invalidSourceIddestinationId" class="dashAnchor"></a>
+                    <a class="token" href="#/">invalidSourceIddestinationId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/missingTag" class="dashAnchor"></a>
+                    <a class="token" href="#/">missingTag</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/amountMismatch" class="dashAnchor"></a>
+                    <a class="token" href="#/">amountMismatch</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/noAcknowledgementForLastTransactionResponse" class="dashAnchor"></a>
+                    <a class="token" href="#/">noAcknowledgementForLastTransactionResponse</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/getLastTransactionFailed" class="dashAnchor"></a>
+                    <a class="token" href="#/">getLastTransactionFailed</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/readCardError" class="dashAnchor"></a>
+                    <a class="token" href="#/">readCardError</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/transactionFailed" class="dashAnchor"></a>
+                    <a class="token" href="#/">transactionFailed</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/invalidDeviceId" class="dashAnchor"></a>
+                    <a class="token" href="#/">invalidDeviceId</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Element/unknown" class="dashAnchor"></a>
+                    <a class="token" href="#/">unknown</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Property/definition" class="dashAnchor"></a>
+                    <a class="token" href="#/">definition</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/init(from:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">init(from:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/"></a>
+                    <a name="//apple_ref/swift/Method/encode(to:)" class="dashAnchor"></a>
+                    <a class="token" href="#/">encode(to:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2020 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2020-03-18)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.1</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

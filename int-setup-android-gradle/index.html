@@ -548,6 +548,11 @@
 <p>Release notes are available here: <a href="https://bintray.com/wirecardmobileservices/Wirecard-ECR/EcrSDK#release">EcrSDK Release notes</a></p>
 <h2 id="gradle-dependencies">Gradle dependencies</h2>
 <p>Add the following lines to your root <code class="codehilite">build.gradle</code> file to include the SDK in your Android Studio project:</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>Latest version: 
+<a href="https://bintray.com/wirecardmobileservices/Wirecard-ECR/EcrSDK/_latestVersion"> <img alt="Download" src="https://api.bintray.com/packages/wirecardmobileservices/Wirecard-ECR/EcrSDK/images/download.svg" /> </a></p>
+</div>
 <div class="codehilite"><pre><span></span><span class="c1">//build.gradle (Project: ...)</span>
 <span class="n">allprojects</span> <span class="o">{</span>
     <span class="n">repositories</span> <span class="o">{</span>
@@ -559,7 +564,7 @@
 
 <span class="c1">//build.gradle (Module: ...)</span>
 <span class="n">dependencies</span> <span class="o">{</span>
-    <span class="n">def</span> <span class="n">ecrVersion</span> <span class="o">=</span> <span class="s">&quot;1.0.0&quot;</span>
+    <span class="n">def</span> <span class="n">ecrVersion</span> <span class="o">=</span> <span class="s">&quot;{{latestVersion}}&quot;</span>
 
     <span class="n">implementation</span> <span class="s">&quot;de.wirecard.ecr:EcrSdk:$ecrVersion&quot;</span>
 
